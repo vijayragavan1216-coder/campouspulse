@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse: Real-Time Student Service Management System",
+  "description": "A comprehensive college campus student service and complaint management system featuring real-time status tracking, role-based workflows, SLA monitoring, and AI-powered assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
