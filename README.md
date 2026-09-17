@@ -199,3 +199,5 @@ npm run start
 - **Role-Enforced Queries**: SQL queries enforce user permissions at the database layer (e.g., students only retrieve their own tickets; technicians retrieve assigned workloads; department heads view their unit's queue).
 - **Safe AI Grounding**: Strict system instructions prevent Pulse Assistant from disclosing confidential records, passwords, or executing state mutations without explicit user submission.
 - **Input Sanitization**: File uploads are restricted by MIME type and size, with disk isolation and parameterized SQL queries to safeguard against injection vulnerabilities.
+ THE PROJECT DEPLOYED WEBSITE
+campouspulse-l5bud6ukv-vijay-483d.vercel.app
